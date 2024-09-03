@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__get_station_data_by_id</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ff7775b3-65be-4c3c-ac64-d527c20f866b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0eeade87-9a58-4116-9f5a-b13cdcc03a89</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca8ad5db-5373-4491-a51b-87d57d7aee9d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'5be9982b199f0300011f2b92'</defaultValue>
+      <description></description>
+      <id>0eeade87-9a58-4116-9f5a-b13cdcc03a89</id>
+      <masked>false</masked>
+      <name>station_id</name>
+   </variable>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>ca8ad5db-5373-4491-a51b-87d57d7aee9d</id>
+      <masked>false</masked>
+      <name>status_code</name>
+   </variable>
+</TestCaseEntity>

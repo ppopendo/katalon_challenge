@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_SAUCEDEMO_LOGIN</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d4e9122d-9057-42f7-8b66-bf980e164991</testSuiteGuid>
+   <testCaseLink>
+      <guid>67c21441-b6ce-4b60-a690-805ecd678b15</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_data_csv</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>806c61e4-0a72-4632-8a9c-22862cce7f25</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/SAUCEDEMO/userlogin_data</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>806c61e4-0a72-4632-8a9c-22862cce7f25</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>e6ecfbbd-6429-4391-b34e-19aa0abc550e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>806c61e4-0a72-4632-8a9c-22862cce7f25</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>0654dc84-fd90-4aa9-ae35-cb03bccb0fab</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6d6f85d5-6b71-4c9d-b5a5-adffffd096b6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_without_login_and_password_is_not_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9d42318f-eb6e-46d3-81c3-e152ee91cdd2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>350d25ac-c7c7-4e5b-ad75-c772a56f4c97</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_without_login_is_not_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ba11eb4d-21d6-4c9d-8866-2aaa1628bc8c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ba1e3d62-ecaa-479e-b06e-2d82c8587ee8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_without_password_is_not_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>606810e4-4c43-44c8-a99d-35b68d968463</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1bd437e9-feff-495f-a049-1193db22a1a8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_with_locked_out_role_is_not_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>afb54274-bf97-4aec-9491-fe2ede9f6a49</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_with_standard_role_is_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e76d2be6-4358-499d-9928-e1ecb95ba72d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_with_visual_role_is_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

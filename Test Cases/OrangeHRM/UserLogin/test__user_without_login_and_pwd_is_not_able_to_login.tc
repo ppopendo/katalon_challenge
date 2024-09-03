@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_without_login_and_pwd_is_not_able_to_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6040f7a-edfe-4465-af38-b374f5389825</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64d499c9-10d6-4ebf-abee-d3cfd192df7f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>2</defaultValue>
+      <description></description>
+      <id>64d499c9-10d6-4ebf-abee-d3cfd192df7f</id>
+      <masked>false</masked>
+      <name>error_messages_count</name>
+   </variable>
+</TestCaseEntity>

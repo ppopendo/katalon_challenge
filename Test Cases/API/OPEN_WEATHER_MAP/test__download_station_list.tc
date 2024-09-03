@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__download_station_list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6b57e75a-c8c5-4d32-96a4-7d85a6021809</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>522d701c-c8d8-4708-8e5d-28a81c8ebdf3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>522d701c-c8d8-4708-8e5d-28a81c8ebdf3</id>
+      <masked>false</masked>
+      <name>status_code</name>
+   </variable>
+</TestCaseEntity>

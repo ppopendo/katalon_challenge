@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_stndard_role_check_porduct_desc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6534a172-3e9d-4d97-9280-75bfdd3cc999</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d00c2aef-652e-45a0-a630-2210f7d2f9b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3143e63-6166-4b34-bc6e-82481696ba7b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sauce Labs Fleece Jacket'</defaultValue>
+      <description></description>
+      <id>d00c2aef-652e-45a0-a630-2210f7d2f9b8</id>
+      <masked>false</masked>
+      <name>item_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'It\'s not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.'</defaultValue>
+      <description></description>
+      <id>c3143e63-6166-4b34-bc6e-82481696ba7b</id>
+      <masked>false</masked>
+      <name>item_desc</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__search_weather_by_city</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c7388e3-b664-4523-a80e-6ab9e26b76ef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>47d9c37b-92ce-45dc-bb22-dde6fd4c422a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a6fec86-05db-4e9c-a658-a50e0ff7682a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kolobrzeg'</defaultValue>
+      <description></description>
+      <id>47d9c37b-92ce-45dc-bb22-dde6fd4c422a</id>
+      <masked>false</masked>
+      <name>city_name</name>
+   </variable>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>4a6fec86-05db-4e9c-a658-a50e0ff7682a</id>
+      <masked>false</masked>
+      <name>status_code</name>
+   </variable>
+</TestCaseEntity>

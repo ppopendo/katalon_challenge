@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>login_remeber_link</name>
+   <tag></tag>
+   <elementGuidId>a18d0e05-9862-4724-9f77-77eb6f98b2f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id=&quot;login_form&quot;][@data-status=&quot;step_1&quot;]//div[@id=&quot;login_id_container&quot;]//a[@id=&quot;ident_rem&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

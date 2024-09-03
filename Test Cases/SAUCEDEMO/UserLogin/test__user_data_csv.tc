@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_data_csv</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c137925a-935c-4a71-88ab-e1484c9aeb4e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e6ecfbbd-6429-4391-b34e-19aa0abc550e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0654dc84-fd90-4aa9-ae35-cb03bccb0fab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.USER_STANDARD</defaultValue>
+      <description></description>
+      <id>e6ecfbbd-6429-4391-b34e-19aa0abc550e</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.DEFAULT_PASSWORD</defaultValue>
+      <description></description>
+      <id>0654dc84-fd90-4aa9-ae35-cb03bccb0fab</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

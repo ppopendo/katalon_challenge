@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test-vr__user_with_standard_role_checks_cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f21b2660-abc7-434c-8ac3-2d870b0a74a1</testCaseGuid>
+</TestCaseEntity>

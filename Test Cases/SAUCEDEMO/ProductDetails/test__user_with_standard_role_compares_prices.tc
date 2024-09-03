@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_standard_role_compares_prices</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d2cab463-5c19-4a95-9595-568a660bad1d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>330f8985-7706-42cd-b7e4-b2f7f13e595d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sauce Labs Fleece Jacket'</defaultValue>
+      <description></description>
+      <id>330f8985-7706-42cd-b7e4-b2f7f13e595d</id>
+      <masked>false</masked>
+      <name>item_name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__login_to_application_with_login_shorter_than_eight_chars</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dbe36ef6-40e1-4812-8bcd-5c29f0c4c2e6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5779346-d148-4312-bf6a-d1775297d5ea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9a24a27-7afb-4584-890b-ed6a00b860f9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a527cc59-eeda-4b2d-8af0-5b9663dac783</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'pole wymagane'</defaultValue>
+      <description></description>
+      <id>a5779346-d148-4312-bf6a-d1775297d5ea</id>
+      <masked>false</masked>
+      <name>error_login_id_empty</name>
+   </variable>
+   <variable>
+      <defaultValue>'identyfikator ma min. 8 znaków'</defaultValue>
+      <description></description>
+      <id>c9a24a27-7afb-4584-890b-ed6a00b860f9</id>
+      <masked>false</masked>
+      <name>error_login_id</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>a527cc59-eeda-4b2d-8af0-5b9663dac783</id>
+      <masked>false</masked>
+      <name>login_id</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>login_id_input</name>
+   <tag></tag>
+   <elementGuidId>40963d8e-858f-4aca-9800-762df1bd4ca5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id=&quot;login_form&quot;][@data-status=&quot;step_1&quot;]//div[@id=&quot;login_id_container&quot;]//input[@id=&quot;login_id&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

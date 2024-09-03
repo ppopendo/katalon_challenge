@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_SAUCEDEMO_PRODUC_DETAILS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>db9edd68-a936-412b-9683-4b772bb65ce8</testSuiteGuid>
+   <testCaseLink>
+      <guid>8b2863cb-f3e8-47cd-aa61-743d021e8334</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/ProductDetails/test__user_with_standard_role_compares_desc</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>919ebcf7-3c04-464c-9be3-d96a610cbd52</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bee8c56b-4e99-4574-9281-e16eca124344</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/ProductDetails/test__user_with_standard_role_compares_prices</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>330f8985-7706-42cd-b7e4-b2f7f13e595d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f118a4ce-9ba9-4a8b-aeb2-d389c4c3ddbc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/ProductDetails/test__user_with_standard_role_is_able_to_open_product_details</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>64c54cde-736f-4a1d-b0bc-e845e353765c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>db7b4174-8cec-4d2e-9eb7-bcd85f2db2a6</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

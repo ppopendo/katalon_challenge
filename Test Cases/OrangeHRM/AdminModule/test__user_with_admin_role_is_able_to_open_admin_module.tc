@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_admin_role_is_able_to_open_admin_module</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b3c7567-e149-45a1-8160-44bb1bd1e6a0</testCaseGuid>
+</TestCaseEntity>

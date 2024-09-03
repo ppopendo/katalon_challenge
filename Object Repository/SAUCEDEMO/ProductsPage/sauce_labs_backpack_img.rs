@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sauce_labs_backpack_img</name>
+   <tag></tag>
+   <elementGuidId>0369d129-9dc6-465b-b54f-eb90cc9ef24d</elementGuidId>
+   <imagePath>Screenshots/Targets/saucedemo/InventoryPage/sauce_labs_backpack.jpg</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/saucedemo/InventoryPage/sauce_labs_backpack.jpg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+</WebElementEntity>

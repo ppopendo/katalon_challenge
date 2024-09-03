@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__search_weather_by_city_without_appid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50292348-57be-4f62-8a91-7548677e9ce0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bbafdf9d-3f56-4c55-ac29-dd5fccef5a3a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e4a42e9-1c8f-4eb6-a468-921ba8ab3a37</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91f49a28-c1dd-42aa-b38c-c86008ccf6c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>401</defaultValue>
+      <description></description>
+      <id>bbafdf9d-3f56-4c55-ac29-dd5fccef5a3a</id>
+      <masked>false</masked>
+      <name>status_code</name>
+   </variable>
+   <variable>
+      <defaultValue>'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.'</defaultValue>
+      <description></description>
+      <id>3e4a42e9-1c8f-4eb6-a468-921ba8ab3a37</id>
+      <masked>false</masked>
+      <name>error_message</name>
+   </variable>
+   <variable>
+      <defaultValue>[('message') : 'Invalid API key. Please see https://openweathermap.org/faq#error401 for more info.', ('cod') : 401]</defaultValue>
+      <description></description>
+      <id>91f49a28-c1dd-42aa-b38c-c86008ccf6c3</id>
+      <masked>false</masked>
+      <name>response_expected</name>
+   </variable>
+</TestCaseEntity>
