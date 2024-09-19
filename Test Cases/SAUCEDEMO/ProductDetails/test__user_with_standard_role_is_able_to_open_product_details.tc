@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_standard_role_is_able_to_open_product_details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8337d8f-7000-47d6-a050-5c78f1af4efe</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64c54cde-736f-4a1d-b0bc-e845e353765c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>db7b4174-8cec-4d2e-9eb7-bcd85f2db2a6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sauce Labs Backpack'</defaultValue>
+      <description></description>
+      <id>64c54cde-736f-4a1d-b0bc-e845e353765c</id>
+      <masked>false</masked>
+      <name>item_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Sauce Labs Bike Light'</defaultValue>
+      <description></description>
+      <id>db7b4174-8cec-4d2e-9eb7-bcd85f2db2a6</id>
+      <masked>false</masked>
+      <name>item_name2</name>
+   </variable>
+</TestCaseEntity>

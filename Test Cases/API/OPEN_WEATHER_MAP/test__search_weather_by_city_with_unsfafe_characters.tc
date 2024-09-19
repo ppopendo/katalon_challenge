@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__search_weather_by_city_with_unsfafe_characters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>20d874f9-8d34-4eb2-814a-f46babff606a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18a3c306-9dcc-4151-9b16-b90a329b9805</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>401</defaultValue>
+      <description></description>
+      <id>18a3c306-9dcc-4151-9b16-b90a329b9805</id>
+      <masked>false</masked>
+      <name>status_code</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__select_element_on_checkboxes</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c867a401-5b89-4847-85c5-9cecd9e2a781</testCaseGuid>
+</TestCaseEntity>

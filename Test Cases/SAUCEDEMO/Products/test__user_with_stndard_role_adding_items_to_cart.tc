@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_stndard_role_adding_items_to_cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9aaf9633-7806-4a95-b244-aa07283aa17e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebfa9e6d-d9ac-4a8b-9fac-363aa0987988</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>ebfa9e6d-d9ac-4a8b-9fac-363aa0987988</id>
+      <masked>false</masked>
+      <name>cart_count</name>
+   </variable>
+</TestCaseEntity>

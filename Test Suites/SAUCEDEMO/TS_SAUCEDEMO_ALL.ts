@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_SAUCEDEMO_ALL</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>9dae3c72-43c7-4258-a840-d8d0057e4b0d</testSuiteGuid>
+   <testCaseLink>
+      <guid>f5cbf645-f6f1-48f4-8ed6-c5af14eb60ca</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Cart/test-vr__user_with_standard_role_checks_cart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>be089cd4-6e5a-4c44-bbc4-7839a1a0386c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Cart/test__user_with_standard_role_checks_cart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a6367ed2-aa40-4970-af85-32854d81cb6f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/ProductDetails/test__user_with_standard_role_compares_desc</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>919ebcf7-3c04-464c-9be3-d96a610cbd52</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bf253edf-3704-421d-b2e6-13940475784a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/ProductDetails/test__user_with_standard_role_compares_prices</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>330f8985-7706-42cd-b7e4-b2f7f13e595d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6ec69fb0-7bc5-4c50-852c-c86ef07fe121</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/ProductDetails/test__user_with_standard_role_is_able_to_open_product_details</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>64c54cde-736f-4a1d-b0bc-e845e353765c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>db7b4174-8cec-4d2e-9eb7-bcd85f2db2a6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4aa151f8-0afe-447b-a7c2-fe46069becfa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_adding_items_to_cart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ebfa9e6d-d9ac-4a8b-9fac-363aa0987988</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2efabaa1-668a-4f4c-a4a0-2d6a34eed986</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_check_porduct_desc</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d00c2aef-652e-45a0-a630-2210f7d2f9b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c3143e63-6166-4b34-bc6e-82481696ba7b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c6801694-75c8-43b2-8869-56dadd01fb35</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_check_porduct_image</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2e610679-e738-4c9c-b8a0-fc22bc42345a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_check_porduct_price</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9b358759-6c50-44c1-beb0-debbfd41be1d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ef8dd910-a432-40b9-af76-452e034b3b59</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2a2d6ca1-3b03-4efc-b66a-e759f2aafa0a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_remove_items_from_cart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f2d4889f-33aa-4c58-b60b-9cb6edcfd284</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_data_csv</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e6ecfbbd-6429-4391-b34e-19aa0abc550e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0654dc84-fd90-4aa9-ae35-cb03bccb0fab</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>70b4166c-1634-4c54-a078-a267d9c0b8cd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_without_login_and_password_is_not_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9d42318f-eb6e-46d3-81c3-e152ee91cdd2</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>435bf61d-f40b-4a0a-b5b7-4935d02f06b6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_without_login_is_not_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ba11eb4d-21d6-4c9d-8866-2aaa1628bc8c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fd98dd3e-b0f8-4c5e-acd5-74943551cbe9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_without_password_is_not_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>606810e4-4c43-44c8-a99d-35b68d968463</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ff58c4d0-ed03-406e-a4d5-639bd781fa0d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_with_locked_out_role_is_not_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>82d9c908-a0bd-431b-b7f1-127c53081f7e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_with_standard_role_is_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5a885a18-916f-4418-8818-6a7d42463571</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/UserLogin/test__user_with_visual_role_is_able_to_login</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

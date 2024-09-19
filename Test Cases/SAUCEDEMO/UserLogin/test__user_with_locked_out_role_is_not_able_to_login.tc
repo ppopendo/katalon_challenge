@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_locked_out_role_is_not_able_to_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ac1648c-1154-4666-b1a4-b76e8c84e777</testCaseGuid>
+</TestCaseEntity>

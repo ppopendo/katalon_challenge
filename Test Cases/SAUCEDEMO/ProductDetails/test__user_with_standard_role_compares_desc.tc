@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_standard_role_compares_desc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2bee5bf0-4ee9-42b6-b00b-e8ef8120fff0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>919ebcf7-3c04-464c-9be3-d96a610cbd52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sauce Labs Bolt T-Shirt'</defaultValue>
+      <description></description>
+      <id>919ebcf7-3c04-464c-9be3-d96a610cbd52</id>
+      <masked>false</masked>
+      <name>item_name</name>
+   </variable>
+</TestCaseEntity>

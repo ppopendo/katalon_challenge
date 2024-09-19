@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_SAUCEDEMO_PRODUCTS</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>508d30ee-834e-4bdd-ba84-70475b178a7b</testSuiteGuid>
+   <testCaseLink>
+      <guid>354b9dcd-f4bb-4a4f-9e0c-bb9b7ffe790a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_adding_items_to_cart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ebfa9e6d-d9ac-4a8b-9fac-363aa0987988</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0e815447-56fa-41ef-afb8-e680cae44811</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_check_porduct_desc</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d00c2aef-652e-45a0-a630-2210f7d2f9b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c3143e63-6166-4b34-bc6e-82481696ba7b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>156ac6cf-56c6-4e8c-874d-400dba7a43a2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_check_porduct_image</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b32471fb-d544-4b05-9bed-65e55884b20f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_check_porduct_price</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9b358759-6c50-44c1-beb0-debbfd41be1d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ef8dd910-a432-40b9-af76-452e034b3b59</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6a0e06d9-75a0-4cbe-b96f-d8453d566ac8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SAUCEDEMO/Products/test__user_with_stndard_role_remove_items_from_cart</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

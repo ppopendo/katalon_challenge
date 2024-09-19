@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__delete_station_exceed_10</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b2ba049-6d37-4381-9a5f-3cffc9716a67</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26fba960-1798-4c05-a702-dad8cead8416</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ef3ca6c-4349-426e-833c-07a58727500f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>204</defaultValue>
+      <description></description>
+      <id>26fba960-1798-4c05-a702-dad8cead8416</id>
+      <masked>false</masked>
+      <name>status_code</name>
+   </variable>
+   <variable>
+      <defaultValue>10</defaultValue>
+      <description></description>
+      <id>2ef3ca6c-4349-426e-833c-07a58727500f</id>
+      <masked>false</masked>
+      <name>station_limit</name>
+   </variable>
+</TestCaseEntity>

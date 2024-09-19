@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>demobank</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>main page</description>
+      <initValue>'https://demobank.jaktestowac.pl/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>default login to application</description>
+      <initValue>'22228888'</initValue>
+      <name>DEFAULT_LOGIN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>default pwd for application</description>
+      <initValue>'88882222'</initValue>
+      <name>DEFAULT_PWD</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>default sleep - wait for element</description>
+      <initValue>5</initValue>
+      <name>DEFAULT_SLEEP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://demobank.jaktestowac.pl/logowanie_etap_1.html'</initValue>
+      <name>URL_LOGIN_FORM_STEP1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://demobank.jaktestowac.pl/logowanie_etap_2.html'</initValue>
+      <name>URL_LOGIN_FORM_STEP2</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

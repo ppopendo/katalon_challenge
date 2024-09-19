@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with admin_role_is_able_to_get_any_user_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed21e1c0-c8cd-4600-9506-74e75dc17d65</testCaseGuid>
+</TestCaseEntity>

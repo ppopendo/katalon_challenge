@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to aplliaction demobank with correct creds</description>
+   <name>test__login_to_application_with_default_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4285791e-04cb-4be1-91fc-678828bc081a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0af8e116-0c68-4cee-a9f3-fcb729fdcaeb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jan Demobankowy'</defaultValue>
+      <description></description>
+      <id>0af8e116-0c68-4cee-a9f3-fcb729fdcaeb</id>
+      <masked>false</masked>
+      <name>user_name</name>
+   </variable>
+</TestCaseEntity>

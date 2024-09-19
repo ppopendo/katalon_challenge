@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_stndard_role_remove_items_from_cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6411c888-9cf5-49c6-af54-7e25e9796df9</testCaseGuid>
+</TestCaseEntity>

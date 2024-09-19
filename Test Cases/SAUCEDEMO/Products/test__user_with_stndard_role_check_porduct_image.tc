@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_stndard_role_check_porduct_image</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>742be4f7-799d-4f85-9352-e5e88d73241e</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__add_remove_button_element</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70f41f5e-2b71-4d2f-b763-f699224a8c81</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>70136f0e-7fbc-4162-bf79-a11f106cf994</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>70136f0e-7fbc-4162-bf79-a11f106cf994</id>
+      <masked>false</masked>
+      <name>count_expected</name>
+   </variable>
+</TestCaseEntity>

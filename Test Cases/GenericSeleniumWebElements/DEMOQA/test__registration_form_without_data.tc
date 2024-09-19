@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__registration_form_without_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5ce39cc-00c6-45ae-aa83-9a6e69c629fa</testCaseGuid>
+</TestCaseEntity>

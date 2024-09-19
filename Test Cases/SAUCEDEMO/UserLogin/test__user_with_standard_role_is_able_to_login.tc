@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_standard_role_is_able_to_login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bd198f0f-c28c-4128-8b54-84c99ca0832b</testCaseGuid>
+</TestCaseEntity>

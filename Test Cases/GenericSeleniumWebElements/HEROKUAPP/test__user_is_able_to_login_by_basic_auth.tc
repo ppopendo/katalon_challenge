@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_is_able_to_login_by_basic_auth</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>414b3444-1381-42c4-b154-170c1bf673cc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af32a329-570d-4fe8-99f8-09d154f02dcd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>06492c7c-79aa-4469-b391-86e6d8ec5a24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1edcf59d-8ad8-4555-9d69-57397b9e7f59</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>955cebdb-a1f9-4697-ac01-94aa6ff3043b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>af32a329-570d-4fe8-99f8-09d154f02dcd</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>06492c7c-79aa-4469-b391-86e6d8ec5a24</id>
+      <masked>false</masked>
+      <name>pwd</name>
+   </variable>
+   <variable>
+      <defaultValue>'Basic Auth'</defaultValue>
+      <description></description>
+      <id>1edcf59d-8ad8-4555-9d69-57397b9e7f59</id>
+      <masked>false</masked>
+      <name>basic_auth_title</name>
+   </variable>
+   <variable>
+      <defaultValue>'Congratulations! You must have the proper credentials.'</defaultValue>
+      <description></description>
+      <id>955cebdb-a1f9-4697-ac01-94aa6ff3043b</id>
+      <masked>false</masked>
+      <name>basic_auth_msg</name>
+   </variable>
+</TestCaseEntity>

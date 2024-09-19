@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__auto_complete</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>966e6c41-721e-402f-bd00-fe0178e3cfda</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a014908e-53de-4c49-accf-be94746f793c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>332e6767-33f0-4784-bffd-26cf79c1faf7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82aee760-83f9-4417-a34b-64620bd52e01</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Black'</defaultValue>
+      <description></description>
+      <id>a014908e-53de-4c49-accf-be94746f793c</id>
+      <masked>false</masked>
+      <name>color_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'White'</defaultValue>
+      <description></description>
+      <id>332e6767-33f0-4784-bffd-26cf79c1faf7</id>
+      <masked>false</masked>
+      <name>color_name2</name>
+   </variable>
+   <variable>
+      <defaultValue>['Black', 'White']</defaultValue>
+      <description></description>
+      <id>82aee760-83f9-4417-a34b-64620bd52e01</id>
+      <masked>false</masked>
+      <name>colors_value</name>
+   </variable>
+</TestCaseEntity>

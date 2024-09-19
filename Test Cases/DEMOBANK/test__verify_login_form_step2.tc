@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__verify_login_form_step2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8013672-d353-4304-a3e1-137b62e3bf18</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7e37ba86-5c50-4aad-86b2-a265edda9a75</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'hasło'</defaultValue>
+      <description></description>
+      <id>7e37ba86-5c50-4aad-86b2-a265edda9a75</id>
+      <masked>false</masked>
+      <name>password_label</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__no_message_on_user_desktop</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d3133bb-af53-407e-99e6-a2d55b0a7252</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f499fca0-05bc-4280-8804-56e59a8d1ee8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Brak wiadomości'</defaultValue>
+      <description></description>
+      <id>f499fca0-05bc-4280-8804-56e59a8d1ee8</id>
+      <masked>false</masked>
+      <name>user_message_str</name>
+   </variable>
+</TestCaseEntity>

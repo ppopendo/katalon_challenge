@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to aplliaction demobank with correct creds</description>
+   <name>test__verify_login_form_step1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>27798d78-3f44-49f4-9cb4-83d0e4fa4f5a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f36c16aa-9c63-4aea-81b5-da232cecf757</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d93f5b5c-9470-4e88-8db8-b5494747fcea</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Wersja demonstracyjna serwisu demobank'</defaultValue>
+      <description></description>
+      <id>f36c16aa-9c63-4aea-81b5-da232cecf757</id>
+      <masked>false</masked>
+      <name>form_header_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'identyfikator'</defaultValue>
+      <description></description>
+      <id>d93f5b5c-9470-4e88-8db8-b5494747fcea</id>
+      <masked>false</masked>
+      <name>login_label_name</name>
+   </variable>
+</TestCaseEntity>

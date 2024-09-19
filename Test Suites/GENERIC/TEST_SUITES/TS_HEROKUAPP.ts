@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_HEROKUAPP</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>f2cc9397-909e-4ff5-8b8c-8a2be9babd0c</testSuiteGuid>
+   <testCaseLink>
+      <guid>9e816dae-cae6-47f2-bee1-7683becfcedf</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/GenericSeleniumWebElements/HEROKUAPP/test__add_remove_button_element</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>70136f0e-7fbc-4162-bf79-a11f106cf994</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8199da2f-7749-49e2-97f9-ec3ea795b80f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/GenericSeleniumWebElements/HEROKUAPP/test__user_is_able_to_login_by_basic_auth</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>af32a329-570d-4fe8-99f8-09d154f02dcd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>06492c7c-79aa-4469-b391-86e6d8ec5a24</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1edcf59d-8ad8-4555-9d69-57397b9e7f59</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>955cebdb-a1f9-4697-ac01-94aa6ff3043b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4dbb24b7-b011-475a-9225-fa8552e041ac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/GenericSeleniumWebElements/HEROKUAPP/test__slider_element</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

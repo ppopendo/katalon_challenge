@@ -1,0 +1,2 @@
+first_name;last_name;email;gender;mobile_number;subject;hobbies;picture;current_address;state;city
+Test;Katalon;test@katalon.com;Female;0000000000;Computer Science;Music;false;To jest adres;Haryana;Karnal

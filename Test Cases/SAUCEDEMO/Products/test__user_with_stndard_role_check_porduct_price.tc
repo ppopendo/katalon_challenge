@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test__user_with_stndard_role_check_porduct_price</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>333f3d91-6fc6-4e84-a392-8571ccb9ea8d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b358759-6c50-44c1-beb0-debbfd41be1d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ef8dd910-a432-40b9-af76-452e034b3b59</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Sauce Labs Bolt T-Shirt'</defaultValue>
+      <description></description>
+      <id>9b358759-6c50-44c1-beb0-debbfd41be1d</id>
+      <masked>false</masked>
+      <name>item_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'$15.99'</defaultValue>
+      <description></description>
+      <id>ef8dd910-a432-40b9-af76-452e034b3b59</id>
+      <masked>false</masked>
+      <name>item_price</name>
+   </variable>
+</TestCaseEntity>
